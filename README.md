@@ -1,2 +1,1 @@
 # Rent-It
-Installation
